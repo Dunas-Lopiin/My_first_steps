@@ -1,0 +1,3 @@
+Hello everybody, Plinio here!
+
+This is my first .txt to be commited to the github server!
